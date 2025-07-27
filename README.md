@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vishal Yadav</h1>
+<h3 align="center">Final Year Computer Engineering Student | Aspiring Full Stack Developer</h3>
 
-<!--
-**vishalyadav-git/vishalyadav-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🎓 Final year **B.E. in Computer Engineering** student
+- 💻 Passionate about **Web Development** and **Problem Solving**
+- 🌱 Currently learning **Next.js**, **System Design**, and sharpening my **DSA skills**
+- 🚀 Focused on mastering the **MERN Stack** and **TypeScript**
+- 🧠 Practicing **Java** and **DSA** consistently for technical interviews
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Tech Stack
+
+- **Languages**: `Java`, `JavaScript`, `TypeScript`, `C`
+- **Frontend**: `HTML`, `CSS`, `React`, `Tailwind CSS`
+- **Backend**: `Node.js`, `Express.js`
+- **Database**: `MongoDB`
+- **Tools**: `Git`, `GitHub`, `VS Code`, `Postman`, `Hoppscotch`
+
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=vishalyadav-git&show_icons=true&theme=github_dark" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalyadav-git&theme=github-dark" height="150"/>
+</p>
+
+
+---
+
+### 📫 Connect with Me
+
+- 📧 Email: [vishalyadav00101@example.com](mailto:vishalyadav00101@example.com)
+- 💼 LinkedIn: [linkedin.com/in/vishalyadav01](https://www.linkedin.com/in/vishalyadav01)
+- 🧑‍💻 Portfolio: *Coming soon...*
+
+---
+
+*Thanks for visiting my profile — let's build something great together 🚀*
