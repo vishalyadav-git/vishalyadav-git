@@ -15,7 +15,7 @@
 ### 💻 Tech Stack
 
 - **Languages**: `Java`, `JavaScript`, `TypeScript`, `C`
-- **Frontend**: `HTML`, `CSS`, `React`, `Tailwind CSS`
+- **Frontend**: `HTML`, `CSS`, `React`, `Bootstrap`
 - **Backend**: `Node.js`, `Express.js`
 - **Database**: `MongoDB`
 - **Tools**: `Git`, `GitHub`, `VS Code`, `Postman`, `Hoppscotch`
