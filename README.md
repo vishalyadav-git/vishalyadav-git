@@ -37,7 +37,6 @@
 
 - 📧 Email: [vishalyadav00101@example.com](mailto:vishalyadav00101@example.com)
 - 💼 LinkedIn: [linkedin.com/in/vishalyadav01](https://www.linkedin.com/in/vishalyadav01)
-- 🧑‍💻 Portfolio: *Coming soon...*
 
 ---
 
