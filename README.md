@@ -35,7 +35,7 @@
 
 ### 📫 Connect with Me
 
-- 📧 Email: [vishalyadav00101@example.com](mailto:vishalyadav00101@example.com)
+- 📧 Email: [vishalyadav00101@example.com](mailto:vishalyadav00101@gmai.com)
 - 💼 LinkedIn: [linkedin.com/in/vishalyadav01](https://www.linkedin.com/in/vishalyadav01)
 
 ---
